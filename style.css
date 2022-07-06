@@ -1,17 +1,40 @@
 body {
-    background-image: url(images/donation13.png);
+
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin: 0px;
 }
 
 .top-banner {
+    height: 600px;
     background-image: url(images/donation13.png);
-    background-repeat: no-repeat;
+    background-size: cover;
+
 }
 
 h1 {
-    font-size: 50px;
+    color: white;
+    font-size: 70px;
     text-align: center;
+    padding-top: 8%;
+}
 
+h4 {
+    color: rgb(245, 245, 245);
+    font-size: 40px;
+    text-align: center;
+}
+
+h5 {
+    color: rgb(245, 245, 245);
+    font-size: 40px;
+    text-align: center;
+    padding-top: none;
+}
+
+.text-center {
+    text-align: center;
+    background-color: orange;
+    font-size: 20px;
+    border-radius: round;
 
 }
