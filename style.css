@@ -102,10 +102,61 @@ h6 {
     background-color: lightgreen;
 }
 
+
+
+.half-width img {
+    width: 70%;
+}
+
+.black1 {
+    font-size: 40px;
+    color: blue;
+}
+
+.half-width1 {
+    text-align: justify;
+    width: 50%;
+    padding-left: 50px;
+    padding-right: 80px;
+}
+
+.flexible-container1 {
+    padding-top: 50px;
+    display: flex;
+}
+
+.button6 {
+    width: 50%;
+    text-align: center;
+}
+
+.black2 {
+    padding-top: 70px;
+    text-align: center;
+    color: blue
+}
+
+.black3 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.button7 {
+    font-size: 20px;
+    background-color: tomato;
+    color: white;
+}
+
+.button8 {
+    font-size: 20px;
+    background-color: tomato;
+    color: white;
+}
+
 footer {
     text-align: center;
     font-size: 50px;
     color: rgb(243, 29, 14);
     font-style: inherit;
-    padding-top: 550px
+    padding-top: 100px
 }
