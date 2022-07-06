@@ -33,8 +33,11 @@ h5 {
 
 .text-center {
     text-align: center;
-    background-color: orange;
     font-size: 20px;
     border-radius: round;
 
+}
+
+footer {
+    text-align: center;
 }
