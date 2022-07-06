@@ -62,43 +62,45 @@ h6 {
 
 }
 
-.Donate-Plan {
-    display: flex;
-}
-
-h2 {
-    font-size: 50px;
+.darkbkack {
+    padding-top: 20px;
     text-align: center;
+    font-size: 40px;
+    color: blue;
 }
 
 .flexible-container {
-    padding: 50px;
+    padding: 20px;
     display: flex;
-    width: 40%;
     margin-left: 5%;
     margin-right: 5%;
-    padding-left: 20px;
+    padding-left: 10px;
+
 }
 
-.experience {
-    padding: 50px;
-    width: 40%;
+.experience-item1 {
+    padding: 10px;
     margin-left: 5%;
     margin-right: 5%;
-    padding-left: 20px;
+    padding-left: 10px;
+    background-color: lightpink;
 }
 
-.experience-item {
-    padding: 50px;
-    width: 40%;
+.experience-item2 {
+    padding: 10px;
     margin-left: 5%;
     margin-right: 5%;
-    padding-left: 20px;
+    padding-left: 10px;
+    background-color: lightgray;
 }
 
-
-
-
+.experience-item3 {
+    padding: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    background-color: lightgreen;
+}
 
 footer {
     text-align: center;
